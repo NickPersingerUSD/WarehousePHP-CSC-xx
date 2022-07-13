@@ -1,0 +1,54 @@
+
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Apr 12, 2022, 6:38:32 PM
+    Author     : Redux
+*/
+@import url('https://fonts.googleapis.com/css2?family=Nunito&effect=fire:ital,wght@1,200&display=swap');
+
+
+
+
+
+html{
+    background-color: white;
+    font-family: 'Nunito', sans-serif;
+}
+
+body {
+    
+    border: 2px solid black;
+    text-align: center;
+    font-family: "Nunito", sans-serif;
+    max-width: 500px;
+    margin:auto;
+    background-color: lightgray;
+        
+}
+
+
+ul {
+    
+    list-style: none;
+    display: inline-block; 
+    text-align: center; 
+    font-size: 20px;
+    
+}
+
+nav {
+    padding-bottom: 10px;
+}
+
+
+h2 {
+    font-size: 20px;
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
